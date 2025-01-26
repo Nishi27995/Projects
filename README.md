@@ -1,4 +1,4 @@
-# K-Nearest Neighbours (kNN) Algorithm
+# K-Nearest Neighbours (KNN) Algorithm
 
 k Nearest Neighbours or kNN is the simplest of all machine learning algorithms. It is a non-parametric algorithm used for classification and regression tasks. Non-parametric means there is no assumption required for data distribution. So, kNN does not require any underlying assumption to be made. In both classification and regression tasks, the input consists of the k closest training examples in the feature space. The output depends upon whether kNN is used for classification or regression purposes.
 
